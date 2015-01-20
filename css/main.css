@@ -1,0 +1,33 @@
+body {
+background-color: #ff546b;
+background-image: url(http://www.transparenttextures.com/patterns/gplay.png);
+}
+
+h1 {
+	color: #05EBCC;
+	text-shadow: rgb(0, 0, 0) -1px -1px 0px;
+	text-align: center;
+	font-family: "Kraash";
+	font-size: 22px;
+	margin-top: 70px;
+}
+
+@font-face {
+  font-family: "Kraash";
+  src: url("../font/Kraash.ttf");
+}
+
+@font-face {
+  font-family: "bang_whack_pow";
+  src: url("../font/bang_whack_pow.ttf");
+}
+
+li {
+	color: #00AB95;
+	font-weight: bold;
+  	font-family: "bang_whack_pow";
+	margin: 5px;
+	text-shadow: rgb(5, 235, 204) -1px -1px 0px;
+	font-size: 25px;
+}
+
