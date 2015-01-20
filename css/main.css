@@ -12,6 +12,21 @@ h1 {
 	margin-top: 70px;
 }
 
+h2 {
+		text-align: center;
+		margin-top: 40px;
+}
+
+h2 a {
+	color: #00AB95;
+	font-weight: bold;
+  	font-family: "bang_whack_pow";
+	margin: 5px;
+	text-shadow: rgb(5, 235, 204) -1px -1px 0px;
+	font-size: 20px;
+	text-decoration: none;
+}
+
 @font-face {
   font-family: "Kraash";
   src: url("../font/Kraash.ttf");
